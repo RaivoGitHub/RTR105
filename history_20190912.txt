@@ -1,34 +1,39 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  firefox
-    4  firefox &
-    5  man firefix
+    3  firefox      atvērt firefox  
+    4  firefox &    atvērt firefox ar iespējām rakstīt komandas zem
+    5  man firefix  "man" dod info par filu
     6  man firefox
     7  firefox &
     8  echo 0
-    9  uname
-   10  man uname
+    9  uname        Operētāj sistēma
+   10  man uname    info (ar kkadam komandām) par OS
    11  ech $
-   12  echo $
-   13  sh cd ?ho
+   12  echo $       parāda vai nu teksta vai mainiga vertibu
+   13  sh cd /ho    
    14  ls
    15  sh /ho
    16  cd ~
-   17  pwd
+   17  pwd          print name of current/working directory (kur tu atrodies)
    18  /
-   19  mkdir ManaMape
+   19  mkdir ManaMape     uztaisīt mapi
    20  cd
    21  pwd
    22  ls
    23  pwd
    24  mkdir ManaMape
-   25  ls
-   26  ls -l
-   27  ls -a
+   25  ls                list directory contents
+   26  ls -l             use a long list format
+   27  ls -a             (--all) do not ignore entries starting with  .
+       ls -la            parāda visus objektu info.
    28  cd ManaMape/
    29  ls -a -l
    30  cd ..
-   31  rmdir ManaMape/
+   31  rmdir ManaMape/   dzēst mapi
    32  ls -l
    33  history
    34  history > history_20190912.txt
+   35  whoami
+   36  man         dod informāciju par komandu
+   
+   
