@@ -12,12 +12,12 @@
    12  echo $       parāda vai nu teksta vai mainiga vertibu
    13  sh cd /ho    
    14  ls
-   15  sh /ho
+   15  sh /ho       "sh" ir komanda, kas nolasa rindiņas no faila vai termināļa
    16  cd ~
    17  pwd          print name of current/working directory (kur tu atrodies)
    18  /
    19  mkdir ManaMape     uztaisīt mapi
-   20  cd
+   20  cd           change directory
    21  pwd
    22  ls
    23  pwd
@@ -27,8 +27,8 @@
    27  ls -a             (--all) do not ignore entries starting with  .
        ls -la            parāda visus objektu info.
    28  cd ManaMape/
-   29  ls -a -l
-   30  cd ..
+   29  ls -a -l          hz
+   30  cd ..             
    31  rmdir ManaMape/   dzēst mapi
    32  ls -l
    33  history
