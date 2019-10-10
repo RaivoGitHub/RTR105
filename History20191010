@@ -1,0 +1,153 @@
+    5  git clone https://github.com/RaivoGitHub/RTR105
+    6  ls -l
+    7  cd RTR105_2019/darbiM01/
+    8  ~/RTR105_2019/darbiM01$
+    9  ~/RTR105/darbiM01$
+   10  ~/RTR105/
+   11  ~/RTR105/darbim01$
+   12  nano if_tests
+   13  nano if_tests.c
+   14  gcc if_tests_1.c
+   15  gcc if_tests.c
+   16  gcc if_tests_1.c
+   17  nano if_tests_1.c
+   18  gcc if_tests.c
+   19  nano if_tests.c
+   20  mv if_tests.c if_tests_1.c 
+   21  gcc if_tests_1.c
+   22  nano if_tests_1.c 
+   23  gcc if_tests_1.c
+   24  nano if_tests_1.c 
+   25  gcc if_tests_1.c
+   26  ls -l
+   27  mv if_tests_1.c RTR105/
+   28  mv a.out RTR105/
+   29  ls -l
+   30  cd RTR105/
+   31  ls -l
+   32  mkdir darbi
+   33  mv if_tests_1.c darbi/
+   34  mv a.out darbi/
+   35  ls -l
+   36  cd darbi/
+   37  ls -l
+   38  ./a.out 
+   39  nano if_tests_1.c 
+   40  gcc if_tests_1.c
+   41  ./a.out 
+   42  ./a.out
+   43  nano if_tests_1.c
+   44  ls -l
+   45  gcc if_tests_1.c
+   46  nano if_teksts_1.c
+   47  nano if_tests_1.c
+   48  gcc if_tests_1.c
+   49  gcc if_teksts_1.c
+   50  nano if_tests_1.c
+   51  gcc if_tests_1.c
+   52  ./a.out
+   53  nano if_tests_1.c
+   54  ./a.out
+   55  ~/RTR105/darbiM01$ cp if_test_1.c if_tests2.c
+   56  nano if_tests_1.c
+   57  gcc if_tests_1.c
+   58  nano if_tests_1.c
+   59  gcc if_tests_1.c
+   60  nano if_tests_1.c
+   61  gcc if_tests_1.c
+   62  nano if_tests_1.c
+   63  gcc if_tests_1.c
+   64  nano if_tests_1.c
+   65  cp if_tests_2.c if_tests_2.c
+   66  cp if_tests_1.c if_tests_2.c
+   67  nano if_tests_2.c
+   68  gcc if_tests_3.c
+   69  gcc if_tests_2.c
+   70  ./a.out
+   71  nano if_tests_2.c
+   72  gcc if_tests_2.c
+   73  nano if_tests_2.c
+   74  gcc if_tests_2.c
+   75  nano if_tests_2.c
+   76  gcc if_tests_2.c
+   77  nano if_tests_2.c
+   78  cp if_tests_2.c if_tests_even_odd.c
+   79  nano if_tests_even_odd.c
+   80  gcc if_tests_even_odd.c
+   81  ./a.out
+   82  nano if_tests_even_odd.c
+   83  gcc if_tests_even_odd.c
+   84  ./a.out
+   85  gcc if_tests_even_odd.c
+   86  ./a.out
+   87  asd
+   88  nano if_tests_even_odd.c
+   89  cp if_tests_even_off.c if_tests_even_odd_with_tic_toc.c
+   90  cp if_tests_even_odd.c if_tests_even_odd_with_tic_toc.c
+   91  nano if_tests_even_odd_tic_tic.c
+   92  nano if_tests_even_odd.c
+   93  nano if_tests_even_odd_with_tic_toc.c
+   94  gcc if_tests_even_odd_with_tic_toc.c
+   95  nano if_tests_even_odd_with_tic_toc.c
+   96  gcc if_tests_even_odd_with_tic_toc.c
+   97  nano if_tests_even_odd_with_tic_toc.c
+   98  gcc if_tests_even_odd_with_tic_toc.c
+   99  nano if_tests_even_odd_with_tic_toc.c
+  100  gcc if_tests_even_odd_with_tic_toc.c
+  101  nano if_tests_even_odd_with_tic_toc.c
+  102  cp if_tests_1.c while_tests_1.c
+  103  ls -l
+  104  nano while_tests_1.c
+  105  gcc while_tests_1.c
+  106  nano while_tests_1.c
+  107  gcc while_tests_1.c
+  108  nano while_tests_1.c
+  109  gcc while_tests_1.c
+  110  nano while_tests_1.c
+  111  gcc while_tests_1.c
+  112  nano while_tests_1.c
+  113  gcc while_tests_1.c
+  114  nano while_tests_1.c
+  115  gcc while_tests_1.c
+  116  nano while_tests_1.c
+  117  gcc while_tests_1.c
+  118  nano while_tests_1.c
+  119  cp while_tests_1.c for_tests_1.c
+  120  nano for_tests_1.c
+  121  gcc for_tests_1.c
+  122  nano for_tests_1.c
+  123  gcc for_tests_1.c
+  124  nano for_tests_1.c
+  125  gcc for_tests_1.c
+  126  nano for_tests_1.c
+  127  gcc for_tests_1.c
+  128  nano for_tests_1.c
+  129  gcc for_tests_1.c
+  130  nano for_tests_1.c
+  131  gcc for_tests_1.c
+  132  nano for_tests_1.c
+  133  gcc for_tests_1.c
+  134  nano for_tests_1.c
+  135  gcc for_tests_1.c
+  136  nano for_tests_1.c
+  137  gcc for_tests_1.c
+  138  nano for_tests_1.c
+  139  gcc for_tests_1.c
+  140  nano for_tests_1.c
+  141  gcc for_tests_1.c
+  142  nano for_tests_1.c
+  143  gcc for_tests_1.c
+  144  nano for_tests_1.c
+  145  gcc for_tests_1.c
+  146  nano for_tests_1.c
+  147  gcc for_tests_1.c
+  148  ./a.out
+  149  nano for_tests_1.c
+  150  rm ./a.out
+  151  ls -lo
+  152  ls -l
+  153  hisotry_2019
+  154  history
+  155  git upload history_20191010.txt 
+  156  git --help
+  157  history
