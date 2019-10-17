@@ -1,0 +1,75 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  cd RTR105/darbim01$
+    5  cd RTR105/darbi01$
+    6  ls -lls -l
+    7  git clone https://github.com/RaivoGitHub/RTR105
+    8  ~/RTR105/darbiM01$
+    9  ~/RTR105/
+   10  ls -l
+   11  ~/RTR105/
+   12  cd ~/RTR105/
+   13  nano user_function_noarg_no_return.c
+   14  gcc user_function_noarg_no_return.c
+   15  nano user_function_noarg_no_return.c
+   16  nano user_function_no_arg_no_return.c
+   17  gcc user_function_no_arg_no_return.c
+   18  ./a.out
+   19  nano user_function_no_arg_no_return.c
+   20  gcc user_function_no_arg_no_return.c
+   21  ./a.out
+   22  nano user_function_no_arg_no_return.c
+   23  gcc user_function_no_arg_no_return.c
+   24  nano user_function_no_arg_no_return.c
+   25  gcc user_function_no_arg_no_return.c
+   26  nano user_function_no_arg_no_return.c
+   27  gcc user_function_no_arg_no_return.c
+   28  nano user_function_no_arg_no_return.c
+   29  nano isisis.c
+   30  nano user_function_no_arg_no_return.c
+   31  gcc user_function_no_arg_no_return.c
+   32  nano user_function_no_arg_no_return.c
+   33  gcc user_function_no_arg_no_return.c
+   34  nano user_function_no_arg_no_return.c
+   35  gcc user_function_no_arg_no_return.c
+   36  nano user_function_no_arg_no_return.c
+   37  cp user_function_no_arg_no_return.c user_function_with_arg_no_return.c
+   38  nano user_function_with_a_rg_no_return.c
+   39  nano user_function_with_arg_no_return.c
+   40  gcc user_function_with_arg_no_return.c
+   41  nano user_function_with_arg_no_return.c
+   42  gcc user_function_with_arg_no_return.c
+   43  nano user_function_with_arg_no_return.c
+   44  gcc user_function_with_arg_no_return.c
+   45  nano user_function_with_arg_no_return.c
+   46  gcc user_function_with_arg_no_return.c
+   47  ./a.out
+   48  nano user_function_with_arg_no_return.c
+   49  gcc user_function_with_arg_no_return.c
+   50  nano user_function_with_arg_no_return.c
+   51  gcc user_function_with_arg_no_return.c
+   52  nano user_function_with_arg_no_return.c
+   53  gcc user_function_with_arg_no_return.c
+   54  cp user_function_with_arg_no_return.c user_function_no_arg_with_return.c
+   55  ls -l
+   56  nano user_function_with_arg_no_return.c
+   57  cp user_function_with_arg_no_return.c user_function_no_arg_with_return.c
+   58  gcc user_function_with_arg_no_return.c
+   59  nano user_function_with_arg_no_return.c
+   60  gcc user_function_with_arg_no_return.c
+   61  nano user_function_with_arg_no_return.c
+   62  gcc user_function_with_arg_no_return.c
+   63  nano user_function_with_arg_no_return.c
+   64  gcc user_function_with_arg_no_return.c
+   65  ./a.out
+   66  nano user_function_with_arg_no_return.c
+   67  cp user_fuinction_with_arg_no_return.c user_function_with_arg_with_return.c
+   68  cp user_function_with_arg_no_return.c user_function_with_arg_with_return.c
+   69  nano user_function_with_arg_with_return.c
+   70  gcc user_function_with_arg_with_return.c
+   71  nano user_function_with_arg_with_return.c
+   72  gcc user_function_with_arg_with_return.c
+   73  ./a.out
+   74  ls -l
+   75  history
